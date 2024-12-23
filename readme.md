@@ -1,4 +1,4 @@
-# Shared libraries (also called dynamic libraries *.dll*, shared objec file *.so*) vs Static library
+# Shared libraries (also called dynamic libraries *.dll*, shared object file *.so*) vs Static library
 
 [Tutorial Link](https://www.youtube.com/watch?v=YtiPCPtmZrs&t)
 
